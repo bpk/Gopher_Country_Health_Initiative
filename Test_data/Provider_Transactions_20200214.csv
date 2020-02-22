@@ -1,0 +1,268 @@
+ProviderId	PersonId	VisitDate	BillAmount	TypeOfService
+7	9	2018-03-23	366.08	Physical Therapy
+3	95	2018-09-09	117.62	Outpatient Surgery
+8	40	2019-04-20	450.25	Physical Therapy
+8	26	2018-11-24	467.92	Outpatient Surgery
+9	22	2019-01-24	282.96	Outpatient Surgery
+2	110	2018-08-10	251.2	Medication
+5	41	2019-02-06	23.19	Physical Therapy
+6	110	2019-12-23	120.47	Outpatient Surgery
+10	76	2019-09-01	272.86	Physical Therapy
+1	56	2018-09-03	112.16	Lab Work
+8	96	2019-07-31	90.74	Medication
+2	19	2018-12-02	344.78	Physical Therapy
+6	68	2018-04-28	124.12	Emergency Room
+3	66	2019-05-21	41.74	Exam
+4	72	2018-03-16	198.24	Emergency Room
+7	92	2020-01-23	432.78	Physical Therapy
+6	95	2018-11-27	254.44	Medication
+3	35	2019-11-14	64.79	Emergency Room
+2	48	2018-02-26	142.83	Medication
+4	39	2019-08-13	235.58	Exam
+10	106	2019-01-31	63.47	Outpatient Surgery
+8	21	2018-04-07	466.16	Emergency Room
+3	84	2019-04-17	179.64	Emergency Room
+5	99	2019-02-16	261.51	Lab Work
+9	103	2019-05-13	234.82	Physical Therapy
+10	84	2018-12-02	188.33	Lab Work
+6	110	2019-07-08	203.12	Outpatient Surgery
+10	86	2019-05-06	366.6	Physical Therapy
+3	58	2019-02-07	198.55	Lab Work
+9	9	2019-04-04	368.43	Emergency Room
+3	35	2019-04-18	317.41	Physical Therapy
+8	97	2018-05-29	242.88	Lab Work
+10	31	2020-02-05	150.42	Physical Therapy
+2	44	2019-02-18	72.69	Emergency Room
+10	73	2018-10-18	101.61	Outpatient Surgery
+6	58	2018-06-13	128.59	Lab Work
+8	32	2019-03-11	425.84	Emergency Room
+1	42	2019-08-10	472.12	Physical Therapy
+7	52	2019-05-26	307.85	Exam
+2	85	2019-07-05	61.14	Emergency Room
+4	61	2018-08-31	54.62	Medication
+5	30	2019-03-10	479.47	Emergency Room
+9	75	2019-07-10	399.3	Outpatient Surgery
+4	35	2019-08-11	149.74	Exam
+4	97	2018-09-03	459.6	Lab Work
+4	59	2019-04-10	41.99	Emergency Room
+8	71	2018-11-02	458.62	Physical Therapy
+6	73	2019-10-06	190.02	Physical Therapy
+1	100	2018-10-27	63.64	Medication
+6	96	2019-12-30	116.34	Physical Therapy
+4	20	2019-05-04	348.77	Medication
+10	108	2019-05-05	142.64	Physical Therapy
+4	23	2019-02-03	222.45	Exam
+7	35	2019-01-06	471.98	Exam
+9	88	2019-05-10	99.64	Outpatient Surgery
+2	84	2019-06-27	165.0	Outpatient Surgery
+1	9	2019-07-11	294.48	Outpatient Surgery
+7	17	2019-07-22	254.02	Physical Therapy
+8	72	2019-04-24	119.27	Medication
+3	69	2019-07-23	207.98	Outpatient Surgery
+5	59	2018-10-31	380.07	Medication
+9	25	2018-02-28	425.81	Outpatient Surgery
+2	8	2019-01-08	417.7	Medication
+4	51	2018-05-27	351.24	Emergency Room
+8	7	2019-02-08	210.99	Exam
+1	52	2018-05-23	320.94	Physical Therapy
+9	24	2019-04-21	444.13	Outpatient Surgery
+4	107	2019-08-29	487.98	Emergency Room
+7	86	2018-07-19	126.18	Exam
+2	2	2018-06-05	167.98	Exam
+4	10	2019-04-06	212.57	Lab Work
+8	37	2019-10-11	38.35	Exam
+5	13	2018-10-06	437.26	Emergency Room
+4	55	2019-09-02	182.29	Physical Therapy
+2	35	2018-03-22	341.3	Lab Work
+1	77	2019-05-29	400.29	Outpatient Surgery
+8	84	2018-05-10	70.78	Physical Therapy
+1	57	2019-05-09	300.17	Outpatient Surgery
+9	64	2018-11-09	255.25	Exam
+1	30	2018-05-13	431.71	Emergency Room
+6	34	2018-09-13	492.31	Medication
+3	15	2018-12-22	463.17	Exam
+8	45	2018-10-14	204.85	Exam
+10	58	2019-11-14	283.71	Lab Work
+5	99	2019-09-08	233.4	Exam
+5	44	2019-01-15	447.64	Lab Work
+7	108	2019-09-11	64.6	Exam
+10	86	2019-03-12	171.45	Lab Work
+7	51	2018-05-06	95.5	Emergency Room
+2	55	2019-10-13	441.8	Emergency Room
+2	71	2019-08-13	122.21	Medication
+7	52	2019-01-30	280.43	Physical Therapy
+6	67	2018-08-02	134.4	Outpatient Surgery
+7	57	2019-02-02	138.2	Outpatient Surgery
+6	87	2018-05-27	64.98	Exam
+7	5	2019-11-16	234.59	Emergency Room
+4	65	2019-06-21	466.23	Lab Work
+4	36	2018-05-05	264.89	Lab Work
+6	5	2019-05-31	73.34	Lab Work
+7	20	2019-05-01	158.3	Lab Work
+6	97	2018-04-26	237.88	Lab Work
+4	24	2019-09-02	4.94	Outpatient Surgery
+8	56	2019-11-14	299.21	Outpatient Surgery
+8	33	2019-06-07	495.99	Physical Therapy
+8	88	2018-12-31	378.97	Outpatient Surgery
+4	70	2019-09-25	125.91	Medication
+9	53	2019-08-22	360.89	Lab Work
+3	105	2019-02-13	221.95	Physical Therapy
+2	97	2019-10-30	273.14	Outpatient Surgery
+5	101	2018-08-16	73.69	Physical Therapy
+9	60	2019-12-22	333.06	Outpatient Surgery
+4	56	2019-07-18	376.26	Emergency Room
+8	1	2019-10-27	156.81	Outpatient Surgery
+6	73	2019-02-17	133.79	Outpatient Surgery
+6	7	2019-05-10	216.22	Exam
+5	67	2018-08-01	34.28	Outpatient Surgery
+5	77	2019-04-11	261.31	Lab Work
+7	82	2018-09-04	22.91	Outpatient Surgery
+2	26	2018-07-16	86.26	Physical Therapy
+8	34	2018-09-24	160.68	Physical Therapy
+10	105	2019-03-06	436.38	Medication
+9	23	2018-03-16	58.43	Medication
+6	43	2018-08-07	145.17	Emergency Room
+3	48	2019-02-18	280.34	Emergency Room
+3	67	2019-07-08	38.6	Emergency Room
+3	12	2019-04-03	191.71	Medication
+5	93	2018-10-09	100.18	Exam
+1	29	2020-01-01	2.06	Physical Therapy
+4	109	2019-02-04	414.88	Physical Therapy
+1	77	2019-05-04	145.57	Lab Work
+3	17	2018-09-18	266.84	Outpatient Surgery
+6	39	2019-11-09	128.6	Lab Work
+2	27	2019-04-05	99.34	Medication
+9	10	2020-01-20	482.23	Physical Therapy
+2	39	2020-02-07	210.64	Physical Therapy
+2	89	2019-08-20	463.51	Exam
+1	50	2018-04-12	69.12	Physical Therapy
+1	30	2019-02-15	249.6	Physical Therapy
+6	41	2018-11-19	406.32	Medication
+10	15	2019-07-05	405.21	Emergency Room
+3	42	2019-12-30	368.1	Lab Work
+3	31	2019-12-14	381.92	Outpatient Surgery
+5	83	2018-06-30	471.33	Medication
+8	84	2018-04-14	471.85	Outpatient Surgery
+8	86	2019-06-08	140.16	Emergency Room
+3	49	2019-06-19	110.49	Exam
+8	29	2018-03-29	138.73	Outpatient Surgery
+6	83	2020-01-05	484.56	Medication
+4	55	2019-06-06	255.23	Exam
+4	36	2019-08-26	273.46	Outpatient Surgery
+3	36	2020-02-20	13.22	Lab Work
+7	3	2019-08-14	86.71	Physical Therapy
+4	110	2018-08-01	277.51	Emergency Room
+1	79	2019-11-12	245.85	Physical Therapy
+5	16	2019-10-04	464.88	Lab Work
+4	73	2018-03-31	352.59	Physical Therapy
+10	98	2019-03-19	335.76	Lab Work
+5	36	2018-11-15	33.34	Physical Therapy
+8	8	2018-03-06	345.77	Physical Therapy
+7	11	2019-11-16	450.01	Emergency Room
+5	45	2019-05-04	492.24	Emergency Room
+2	39	2020-02-04	296.49	Outpatient Surgery
+4	14	2018-06-25	34.41	Emergency Room
+1	16	2019-10-28	282.57	Lab Work
+3	44	2019-01-16	364.34	Medication
+3	43	2018-06-02	6.12	Lab Work
+1	71	2019-12-23	331.05	Medication
+6	17	2019-04-03	146.41	Lab Work
+3	3	2018-09-29	29.75	Physical Therapy
+5	57	2018-09-08	453.89	Exam
+4	106	2020-02-06	302.27	Physical Therapy
+1	72	2019-12-07	168.4	Lab Work
+10	90	2018-04-03	47.7	Physical Therapy
+7	52	2018-10-19	263.61	Emergency Room
+6	99	2019-04-13	80.43	Outpatient Surgery
+1	32	2019-04-30	485.39	Physical Therapy
+10	77	2018-03-23	217.98	Exam
+3	84	2018-05-20	156.56	Physical Therapy
+8	54	2019-05-20	386.65	Physical Therapy
+4	8	2018-06-02	440.98	Medication
+5	2	2019-08-11	384.37	Outpatient Surgery
+9	25	2018-03-22	189.98	Exam
+3	106	2019-01-09	395.05	Emergency Room
+4	38	2018-12-23	101.78	Medication
+6	20	2018-02-22	142.23	Medication
+7	78	2018-06-29	359.42	Emergency Room
+8	28	2018-10-22	167.31	Emergency Room
+7	22	2019-09-06	191.09	Lab Work
+9	88	2018-04-26	298.46	Medication
+8	39	2019-12-17	397.86	Emergency Room
+8	84	2019-03-25	17.56	Exam
+6	99	2020-02-15	194.46	Exam
+2	40	2018-08-17	226.77	Outpatient Surgery
+4	14	2019-11-26	312.89	Emergency Room
+5	48	2019-11-18	479.75	Exam
+10	51	2020-01-20	370.18	Outpatient Surgery
+10	35	2020-02-16	410.49	Lab Work
+6	35	2018-06-02	251.95	Exam
+3	95	2018-02-26	93.5	Medication
+4	83	2019-05-07	86.08	Exam
+2	46	2018-09-22	208.17	Exam
+8	68	2019-08-31	420.79	Medication
+6	64	2019-05-22	98.59	Emergency Room
+9	25	2018-08-02	338.38	Exam
+2	90	2019-04-03	468.63	Outpatient Surgery
+8	50	2019-08-03	103.91	Emergency Room
+2	6	2019-12-14	249.34	Exam
+3	57	2018-08-09	413.44	Exam
+3	38	2018-10-20	285.86	Emergency Room
+7	45	2018-06-04	239.5	Medication
+4	93	2018-10-04	456.23	Emergency Room
+9	60	2019-03-16	261.73	Lab Work
+5	68	2019-06-10	311.15	Lab Work
+6	10	2019-11-11	122.75	Physical Therapy
+9	23	2018-05-15	315.87	Physical Therapy
+9	76	2019-12-09	307.66	Exam
+1	39	2019-04-11	255.65	Medication
+2	11	2019-05-14	249.62	Exam
+5	99	2019-08-05	326.07	Medication
+1	92	2019-01-08	385.34	Lab Work
+4	7	2019-07-23	452.44	Physical Therapy
+4	20	2018-12-25	48.56	Physical Therapy
+8	108	2018-09-23	179.67	Emergency Room
+8	26	2019-09-04	189.34	Medication
+6	29	2019-01-21	281.75	Emergency Room
+1	71	2018-11-06	418.52	Exam
+4	47	2018-06-04	66.34	Emergency Room
+8	29	2020-01-31	37.53	Physical Therapy
+4	17	2019-01-17	283.81	Exam
+5	10	2018-12-06	312.41	Emergency Room
+7	102	2020-02-14	22.18	Emergency Room
+10	12	2018-07-10	461.83	Outpatient Surgery
+4	67	2020-01-03	240.82	Exam
+9	19	2018-12-05	5.88	Lab Work
+4	59	2019-09-10	411.35	Medication
+1	5	2019-06-05	456.81	Physical Therapy
+1	69	2018-06-06	212.97	Physical Therapy
+5	70	2018-09-18	495.39	Lab Work
+2	92	2018-08-09	13.05	Exam
+7	54	2019-08-25	41.52	Physical Therapy
+2	26	2019-05-21	469.93	Physical Therapy
+10	109	2018-04-30	334.7	Medication
+3	71	2020-01-04	225.4	Exam
+6	21	2019-11-02	391.34	Outpatient Surgery
+1	97	2018-03-16	385.76	Emergency Room
+2	103	2019-07-15	422.08	Exam
+8	25	2020-02-15	14.32	Exam
+9	16	2019-10-16	5.7	Outpatient Surgery
+5	91	2019-07-14	430.61	Outpatient Surgery
+7	22	2018-11-15	457.94	Emergency Room
+6	79	2018-03-04	178.17	Physical Therapy
+6	11	2019-08-06	231.3	Lab Work
+3	86	2019-07-27	162.55	Emergency Room
+9	21	2019-11-30	316.83	Emergency Room
+7	80	2019-01-16	192.71	Outpatient Surgery
+10	59	2018-10-08	186.09	Medication
+8	12	2018-10-02	193.01	Physical Therapy
+2	44	2019-12-20	232.95	Emergency Room
+6	86	2020-02-20	8.11	Emergency Room
+9	52	2018-07-18	345.82	Lab Work
+7	52	2019-03-09	121.31	Lab Work
+10	87	2018-08-11	264.02	Lab Work
+2	50	2020-01-27	119.09	Lab Work
+8	3	2019-11-24	333.23	Lab Work
+9	72	2018-05-21	464.87	Exam
+5	20	2018-08-06	429.88	Outpatient Surgery
+5	54	2019-01-02	123.18	Emergency Room
