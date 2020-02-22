@@ -1,0 +1,111 @@
+first_name,last_name,address1,city,state,zip5,zip4,county,TIN,date_of_birth,annual_income,gender,signup_date,health_insurance
+Sandra,Taylor,378 Antonio Inlet Suite 898,Charleston,MN,55098,5819,Steele,702102054,1973-02-28,34426.52,Female,2020-02-22,PMAP
+Michelle,Saunders,441 Dana Center Suite 113,New Michaeltown,MN,56188,0160,Sibley,668605363,2007-05-19,27943.98,Female,2020-02-22,PMAP
+Debra,Rodgers,29080 Carey Harbor,Anthonymouth,MN,56182,6817,Houston,571870498,1985-05-20,61758.75,Female,2020-02-22,MSCPlus
+Renee,Barnett,6856 Graham Pine,New Kristin,MN,56712,5003,Goodhue,828514934,1995-08-20,59936.07,Female,2020-02-22,SingleCare
+Nancy,Conrad,554 Alexandra Gardens,Lawrenceside,MN,56398,2526,Goodhue,251051544,2006-08-25,18551.44,Female,2020-02-22,MinnesotaCare
+Nathan,Nichols,2698 Ana Throughway,East Michelleburgh,MN,55307,5091,Brown,501475513,2008-10-24,29086.45,Male,2020-02-22,SingleCare
+Natasha,Hendrix,61375 Fletcher Junctions,West Sarah,MN,55354,6137,Waseca,747650198,1973-04-22,37742.62,Female,2020-02-22,MSCPlus
+Ethan,Owens,2148 Alejandro Square,South Christopherton,MN,55492,6813,Sibley,489613262,1988-09-19,3196.04,Male,2020-02-22,MinnesotaCare
+David,Schwartz,3259 Mark Point Apt. 449,Sanchezland,MN,56482,7055,Goodhue,847913348,1985-10-13,74887.24,Male,2020-02-22,SharedCare
+Holly,Pierce,661 Anderson Mill Suite 392,South Jasonburgh,MN,56041,2337,Waseca,471335001,1994-07-18,53913.04,Female,2020-02-22,PMAP
+Amy,Stevenson,0232 Hall Passage Apt. 884,Lake Gregoryshire,MN,55004,5472,Waseca,090413463,1973-01-28,55460.28,Female,2020-02-22,SeniorCare
+Sean,Taylor,756 Young Tunnel,Rachelland,MN,55135,3955,Waseca,610131603,1972-05-05,58640.2,Male,2020-02-22,AbilityCare
+Christine,Lyons,051 Gregory Fords Apt. 607,Lake Amandashire,MN,56364,2452,Dodge,024109150,1978-05-14,107.25,Female,2020-02-22,AbilityCare
+Diane,Case,12994 Christian Trail Suite 042,Lake Johnny,MN,56692,2076,Sibley,418549618,1993-11-22,70883.89,Female,2020-02-22,SharedCare
+Scott,Fitzgerald,48793 John Stravenue Apt. 377,Youngstad,MN,55432,3206,Brown,710695358,2010-01-08,30175.36,Male,2020-02-22,MinnesotaCare
+Casey,Bryan,5959 Rick Crossing Apt. 813,East Christopher,MN,55321,4985,Steele,161913969,1971-11-25,49122.77,Female,2020-02-22,SeniorCare
+David,Hamilton,9256 Cody Meadow Apt. 497,North Johnport,MN,55566,1010,Brown,491600625,2015-07-24,48740.38,Male,2020-02-22,MSCPlus
+Sandra,Walker,77436 Nicole Valleys,Susanland,MN,55438,1022,Wabasha,463383750,1992-10-18,18053.08,Female,2020-02-22,MinnesotaCare
+Keith,Gonzalez,077 Charles Row,South Abigail,MN,55180,6254,Wabasha,879564401,2003-04-13,44196.7,Male,2020-02-22,MinnesotaCare
+Aaron,Figueroa,16890 Brian Route Apt. 516,West Nicholashaven,MN,55039,8527,Goodhue,108294663,1976-01-03,52118.76,Male,2020-02-22,SingleCare
+John,Mueller,68065 Parks Path Apt. 311,Hancockbury,MN,56357,3152,Houston,883541198,2010-11-30,38161.01,Male,2020-02-22,PMAP
+Emily,Bolton,86287 Timothy Freeway Apt. 217,Port James,MN,56043,0625,Wabasha,198996441,1986-05-28,59994.0,Female,2020-02-22,SeniorCare
+James,Greene,206 Miller Overpass,West Lisahaven,MN,55951,8625,Houston,584203229,2009-01-06,32859.39,Male,2020-02-22,MSCPlus
+Melissa,White,665 Larry Manors,East Jessica,MN,56399,6770,Kanabec,774875470,2018-04-25,49998.5,Female,2020-02-22,SharedCare
+Jeffrey,Oneill,6094 Larson Radial Apt. 811,Sanfordhaven,MN,55905,1510,Dodge,239513503,1975-09-14,42935.55,Male,2020-02-22,SeniorCare
+Jose,Weber,4474 Joe Walks Suite 159,Alyssastad,MN,56105,8619,Houston,074939789,1998-04-28,49556.34,Male,2020-02-22,PMAP
+John,Hoffman,2937 Dustin Stravenue,Craigborough,MN,56070,8370,Steele,311717733,2019-03-04,13494.06,Male,2020-02-22,SharedCare
+Willie,Mckay,080 Janet Terrace,Lake Deborah,MN,56211,5432,Sibley,729264130,1998-07-27,64273.87,Male,2020-02-22,MinnesotaCare
+Frank,Scott,20220 Mark Branch,New Autumnstad,MN,56721,1379,Dodge,688836779,1981-11-17,18310.07,Male,2020-02-22,MSCPlus
+Joy,Riley,3905 Fisher Plain Apt. 884,Rubiofort,MN,55808,7806,Waseca,634082041,2000-11-08,27530.18,Female,2020-02-22,MSCPlus
+Gary,Owens,8514 Leroy Lock Apt. 822,Port Justin,MN,55491,9074,Dodge,779607470,1978-03-04,25321.67,Male,2020-02-22,SingleCare
+Robert,Brown,329 Alex Curve Suite 983,Howardside,MN,56170,5267,Brown,567083857,1999-11-05,44804.9,Male,2020-02-22,SharedCare
+Susan,Hernandez,796 Espinoza Street Suite 470,New Williamborough,MN,55114,4914,Sibley,087929445,1972-05-04,25259.74,Female,2020-02-22,SharedCare
+Mason,Walton,4187 David Bypass,Michelleview,MN,55060,7903,Wabasha,317045821,2009-11-22,58902.39,Male,2020-02-22,SharedCare
+Amber,Obrien,6836 Clark Shoals,Mooreport,MN,56588,7462,Steele,468284516,2018-08-23,4652.23,Female,2020-02-22,MSCPlus
+Patrick,Griffin,921 May Motorway Apt. 739,Burnschester,MN,56762,9897,Waseca,028380664,1983-04-21,73811.98,Male,2020-02-22,PMAP
+Jeffrey,Baker,3283 Cody Fork Suite 888,South Ashleechester,MN,55060,8495,Steele,249091944,2015-05-11,40623.46,Male,2020-02-22,SeniorCare
+Jasmine,Robinson,4272 Jimenez Lock Suite 544,Jeffreymouth,MN,56399,2417,Wabasha,345521264,2019-10-31,42257.19,Female,2020-02-22,MinnesotaCare
+Regina,Hall,146 Margaret Trafficway,New Genemouth,MN,56761,7525,Waseca,667205583,1995-06-23,13700.54,Female,2020-02-22,MSCPlus
+Lance,Black,942 Elizabeth Estate,Perezchester,MN,55142,4392,Houston,110829015,1992-12-18,63948.99,Male,2020-02-22,SharedCare
+Michelle,Martin,3236 Bradford Greens,Brownport,MN,55445,6021,Goodhue,231526766,2008-10-02,8872.4,Female,2020-02-22,SharedCare
+Tony,Davis,370 Brendan Manor,North Bob,MN,55900,9558,Sibley,754193203,1986-02-25,61585.22,Male,2020-02-22,SingleCare
+Gregory,Morrow,003 Keller Trace Apt. 355,Port Maryhaven,MN,55089,5704,Dodge,464613180,1987-08-27,59557.93,Male,2020-02-22,MinnesotaCare
+Cory,Cain,5929 Hawkins Cape,Christopherburgh,MN,55793,3165,Waseca,567289269,2000-01-29,2876.62,Male,2020-02-22,SeniorCare
+Kyle,Benson,89609 Susan Gateway Apt. 355,Hamiltonborough,MN,55556,0069,Houston,842829890,1998-03-04,71621.62,Male,2020-02-22,SeniorCare
+Kevin,Schwartz,4275 Michael Crossroad,Pottsmouth,MN,55879,1838,Wabasha,795832842,2002-08-20,33323.86,Male,2020-02-22,SingleCare
+Robert,Johnson,4261 Cole Canyon Suite 472,Port Kevintown,MN,56176,8050,Houston,851908399,1989-12-16,9083.8,Male,2020-02-22,SeniorCare
+Paula,Woods,106 Odonnell Estates,Hernandezhaven,MN,55797,8226,Steele,712186628,2000-10-26,19806.15,Female,2020-02-22,PMAP
+Rhonda,Wright,1849 Leslie Course Suite 389,East Justinmouth,MN,55706,9681,Steele,172814773,1999-03-11,33524.95,Female,2020-02-22,PMAP
+Timothy,Gates,1493 Tracy Island,Carlside,MN,56476,2747,Waseca,216265995,2001-02-04,56775.98,Male,2020-02-22,MSCPlus
+David,Rodriguez,856 Trevor Garden,Smithfort,MN,56613,2420,Sibley,788244230,1981-02-19,19806.07,Male,2020-02-22,PMAP
+Becky,Sloan,3839 Ann Trafficway Suite 598,Johnsonbury,MN,55574,5645,Waseca,824213908,2007-01-02,71504.98,Female,2020-02-22,SingleCare
+Brian,Diaz,576 Gabriella Common,Mollyport,MN,55284,3547,Sibley,384911044,2006-07-05,25373.07,Male,2020-02-22,SharedCare
+Karen,Graham,570 Wanda Dale Apt. 731,Lake Christopherville,MN,56155,9021,Dodge,437860531,2007-02-14,38836.09,Female,2020-02-22,MSCPlus
+Melissa,Hahn,7047 Gonzalez Street Apt. 179,South Adrian,MN,56612,1343,Steele,342445708,2019-06-25,35012.33,Female,2020-02-22,MSCPlus
+Tim,Jordan,0299 George Orchard,Wilsonhaven,MN,55227,0777,Dodge,723056599,2014-03-07,66931.87,Male,2020-02-22,SharedCare
+Tyler,Reyes,575 Brown Hill,Lake Caroline,MN,55712,0981,Steele,050888476,1995-03-06,36708.34,Male,2020-02-22,MinnesotaCare
+Robert,Garcia,3702 Perry Fork,Catherinemouth,MN,55080,9134,Goodhue,859900048,1979-03-04,63544.87,Male,2020-02-22,MSCPlus
+Amy,Kim,9986 Brooke Common Apt. 987,West Johnny,MN,55604,6401,Kanabec,056558739,2018-01-11,59001.08,Female,2020-02-22,MSCPlus
+Gwendolyn,Kirk,0194 Francis Port,South Ronniefort,MN,56065,0224,Dodge,397030892,2015-03-15,46659.42,Female,2020-02-22,MinnesotaCare
+Amanda,Cox,39188 Ware Cove,West Drewville,MN,55937,8341,Kanabec,605908138,1988-09-13,2149.84,Female,2020-02-22,AbilityCare
+Mitchell,Gilmore,651 Vanessa Points Apt. 543,South Heatherhaven,MN,55294,0767,Goodhue,483109790,1974-05-25,65876.24,Male,2020-02-22,MinnesotaCare
+Kyle,Schneider,12074 Garcia Groves,South Samantha,MN,55564,3586,Sibley,876910867,2007-03-23,65472.11,Male,2020-02-22,SharedCare
+Robert,Pratt,37406 Reyes Garden,North Ryan,MN,56043,1977,Steele,878355509,2015-01-04,51218.88,Male,2020-02-22,PMAP
+Rhonda,Woods,8904 Julian Mews,West Cassandra,MN,55862,1984,Dodge,864969883,2011-03-04,58026.18,Female,2020-02-22,SharedCare
+Tina,Miller,077 Michelle Place,Flynnport,MN,56144,1729,Wabasha,856857731,1975-07-27,5372.72,Female,2020-02-22,MSCPlus
+Zachary,Martinez,7314 Foster Parks,East Tammy,MN,55249,9777,Goodhue,148232896,2006-11-29,22418.1,Male,2020-02-22,SingleCare
+Joel,Evans,5234 Joel Crossing,Port Christopherhaven,MN,56532,7969,Brown,797362855,1974-10-28,64606.96,Male,2020-02-22,MinnesotaCare
+Megan,Wright,7044 Bowen Divide Apt. 807,New Chadshire,MN,56476,7687,Brown,294834913,2014-09-23,67556.71,Female,2020-02-22,MinnesotaCare
+Andrew,Jenkins,630 Emily Ramp,East Karenport,MN,55531,4899,Houston,667914482,2019-07-30,74833.6,Male,2020-02-22,PMAP
+Mark,Walter,74648 Ellen Ridge Suite 737,North Jonathon,MN,55067,0533,Goodhue,190687215,2008-03-26,61068.04,Male,2020-02-22,SharedCare
+Alexis,Booth,039 Christina Falls,Fletcherton,MN,55242,4507,Brown,103115308,1996-08-31,66595.96,Female,2020-02-22,SingleCare
+Heather,Hale,83726 Brown Square,North Monicaland,MN,55465,0700,Houston,145091053,1988-08-06,32064.9,Female,2020-02-22,MinnesotaCare
+Linda,Chambers,37671 Reynolds Corner Suite 090,Meyerland,MN,55444,4588,Houston,406257586,1988-02-29,33288.79,Female,2020-02-22,MSCPlus
+Christina,Harding,217 Laura Drives,Lake Barbarafurt,MN,56681,3631,Wabasha,727657750,2007-03-18,65173.67,Female,2020-02-22,AbilityCare
+Karen,Ramirez,51960 Berger Underpass Apt. 765,Ashleyton,MN,56195,4092,Houston,772974746,2009-01-22,47596.88,Female,2020-02-22,AbilityCare
+Natalie,Hodges,34862 Wallace Throughway,Shepherdfort,MN,56543,1572,Steele,492715136,1998-03-31,34129.86,Female,2020-02-22,PMAP
+Dana,Gonzales,1137 Nancy Ways,Emilymouth,MN,55158,0630,Dodge,723369601,1976-09-12,24577.82,Female,2020-02-22,SeniorCare
+Andrea,Shaw,8157 Evans Walks Apt. 517,Lake Jason,MN,55430,5139,Kanabec,753735974,2009-11-12,53330.73,Female,2020-02-22,MinnesotaCare
+Samuel,Gutierrez,1570 Foster Squares,East Daniellefurt,MN,55196,7334,Dodge,225746846,1990-05-04,44019.91,Male,2020-02-22,MinnesotaCare
+Richard,Aguilar,9409 Renee Village Apt. 918,Cardenasmouth,MN,55742,2728,Steele,748078432,1993-01-16,55601.08,Male,2020-02-22,MSCPlus
+David,Brown,672 Lang Avenue,Williamsfurt,MN,55392,8234,Houston,667754816,2014-02-28,35589.86,Male,2020-02-22,MinnesotaCare
+Daniel,Martinez,336 Lopez Mission,Meaganport,MN,56189,8202,Dodge,662213921,1995-05-14,54220.93,Male,2020-02-22,MSCPlus
+Oscar,Barnett,382 Patterson Glens,South Justinside,MN,56258,2176,Steele,193910168,1991-12-31,32537.85,Male,2020-02-22,MinnesotaCare
+Antonio,Palmer,25224 Robert Crest Apt. 242,Singletontown,MN,55951,6983,Kanabec,844353225,1978-04-02,29858.49,Male,2020-02-22,SharedCare
+Allison,Bean,16884 Pierce Keys,Billyberg,MN,55119,8539,Wabasha,136837393,2010-09-02,59350.45,Female,2020-02-22,SharedCare
+Casey,Mendoza,264 Melvin Prairie,New Anna,MN,55910,3391,Houston,304605983,2002-03-23,36817.74,Male,2020-02-22,SeniorCare
+Paul,Everett,133 Rodgers Manors Suite 825,East Austinhaven,MN,55880,2089,Steele,254369913,1970-06-20,41559.08,Male,2020-02-22,SeniorCare
+Ronald,Snyder,069 Philip Trace Apt. 956,Luketown,MN,55198,0133,Waseca,464448766,2019-10-23,32419.61,Male,2020-02-22,SeniorCare
+Mary,Steele,554 Lori Radial Apt. 777,South Jamesport,MN,56438,2800,Sibley,390860775,2011-03-10,67433.17,Female,2020-02-22,SeniorCare
+Shari,Johnson,7143 Michael Extension Suite 935,West Tracy,MN,55979,3493,Dodge,422908073,1999-04-26,10280.81,Female,2020-02-22,AbilityCare
+Julie,Phillips,6180 Nicole Meadows,West Richardfort,MN,56119,6226,Dodge,453673273,2002-07-13,60240.4,Female,2020-02-22,MSCPlus
+Darrell,Barnes,882 Amber Union Apt. 015,East Jaclyn,MN,55275,0147,Brown,630895394,1985-10-04,39686.73,Male,2020-02-22,MinnesotaCare
+Eric,Brandt,779 Steven Greens Apt. 167,North Kristenborough,MN,55359,0908,Dodge,214556711,1992-03-13,47586.36,Male,2020-02-22,SeniorCare
+Jared,Rocha,58721 Alexander Hills,Harrisfurt,MN,55203,1196,Dodge,276566424,1980-06-15,40267.84,Male,2020-02-22,MinnesotaCare
+Dennis,Ramos,685 Smith Groves,North Troymouth,MN,55894,1198,Kanabec,461830312,1983-01-17,10596.28,Male,2020-02-22,AbilityCare
+Jacob,Mcdonald,49377 Ronald Corners Suite 318,East Wendy,MN,56243,3979,Goodhue,169966132,1985-01-29,47481.34,Male,2020-02-22,SharedCare
+Judy,Smith,204 Sanchez Stravenue Apt. 508,East Christopher,MN,55585,3975,Dodge,789491753,1978-03-06,46199.48,Female,2020-02-22,SeniorCare
+Joshua,Burns,33844 William Mountain Suite 776,Ashleyville,MN,55134,7600,Kanabec,415022527,2012-08-23,14404.42,Male,2020-02-22,PMAP
+Lauren,Weber,7660 Lara Route Suite 790,South Toddmouth,MN,56621,8139,Waseca,793248392,1984-08-14,28260.05,Female,2020-02-22,SingleCare
+Eileen,Sharp,50586 Alexandra Dam,Jacksonfurt,MN,55496,6216,Waseca,433755675,2009-07-18,12961.28,Female,2020-02-22,AbilityCare
+Amy,Johnson,796 Robinson Street Apt. 938,South Brianport,MN,55192,1305,Houston,355630136,1997-06-12,36281.96,Female,2020-02-22,MinnesotaCare
+Brian,Jones,457 Adam View,Port Jennifer,MN,55489,4066,Steele,663857070,2019-12-14,36614.58,Male,2020-02-22,PMAP
+Lauren,Savage,9458 Chad Common Apt. 902,Mcdowelltown,MN,55069,7529,Kanabec,758525049,1986-06-20,14147.49,Female,2020-02-22,MinnesotaCare
+Amber,Bennett,967 Carter Isle Suite 323,Shannonland,MN,56186,4419,Waseca,814637413,1982-05-19,13228.82,Female,2020-02-22,SharedCare
+Eric,Mason,901 Anne Mount,Tanyastad,MN,55926,9255,Kanabec,779441412,1986-04-05,32026.38,Male,2020-02-22,MSCPlus
+Michael,Franklin,777 Bailey Drives Apt. 164,New Virginiashire,MN,55105,6536,Waseca,456704955,1977-12-05,49736.36,Male,2020-02-22,MSCPlus
+Steven,Mcgee,0424 Richard Canyon,Melendezhaven,MN,56312,7526,Kanabec,671160558,1974-07-28,5321.45,Male,2020-02-22,MinnesotaCare
+Erica,Gonzales,9658 Andrea Stream,Jeffberg,MN,55194,5783,Dodge,069670686,1988-09-09,5646.74,Female,2020-02-22,MinnesotaCare
+Jeremy,Williams,6044 Leonard Canyon,Anthonybury,MN,55295,9362,Sibley,153128905,1971-09-04,20216.11,Male,2020-02-22,PMAP
